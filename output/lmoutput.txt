@@ -1,0 +1,8 @@
+
+Call:
+lm(formula = age ~ O1 + O2 + O3 + O4 + O5, data = bfi)
+
+Coefficients:
+(Intercept)           O1           O2           O3           O4           O5  
+   29.45237      0.29596     -0.03673      0.01663     -0.05186     -0.73111  
+
